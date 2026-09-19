@@ -64,6 +64,10 @@ The Power BI dashboard includes:
 - Revenue and sales by age group
 - Interactive filters: subscription status, gender, category, shipping type
 
+
+"C:\Users\Ankush chaurasiya\OneDrive\Pictures\Screenshots\Screenshot 2026-09-19 191048.png"
+
+
 ## Results & Key Insights
 
 - **Revenue by gender:** Male customers generated ~$157,890 vs. ~$75,191 from female customers
