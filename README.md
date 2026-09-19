@@ -64,8 +64,9 @@ The Power BI dashboard includes:
 - Revenue and sales by age group
 - Interactive filters: subscription status, gender, category, shipping type
 
+<img width="395" height="255" alt="Screenshot 2026-09-19 191048" src="https://github.com/user-attachments/assets/37af6274-98ef-4d8c-9d92-eafba7949e08" />
 
-"C:\Users\Ankush chaurasiya\OneDrive\Pictures\Screenshots\Screenshot 2026-09-19 191048.png"
+
 
 
 ## Results & Key Insights
